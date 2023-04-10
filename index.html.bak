@@ -16,8 +16,7 @@
 
 <div class="wrapper clearfix">
   <div class="left">
-  <div class="circular--landscape"> <img src="mahen.jpg" /> </div>
-
+<img src="mahen.jpg" alt="Avatar">
     <div class="name-hero">
 
       <div class="me-img"></div>
